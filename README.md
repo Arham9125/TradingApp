@@ -1,4 +1,7 @@
-# cryptoapp
+# CryptoAppUI
+
+<img width="1440" alt="UI" src="https://github.com/Arham9125/TradingApp/assets/90573710/749e7457-ff7c-4be9-809e-6d51348cce05">
+
 
 A new Flutter project.
 
